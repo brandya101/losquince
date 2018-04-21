@@ -25,3 +25,5 @@ Things to work on:
 Understanding global scope. 
 Getting rid of repetitive code (if we can use a for loop/for each better).
 hard coding some items on the html page confuses the whole project. 
+
+Note: Please make sure that you are using your own Firebase link to get the app started. If not you will be pushing randomly to firebase and it will mess with the whole application. 
